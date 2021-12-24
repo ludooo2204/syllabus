@@ -18,7 +18,7 @@
         android:windowSoftInputMode="adjustResize">
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
-       <action android:name="android.intent.action.TTS_SERVICE" />
+       <!-- <action android:name="android.intent.action.TTS_SERVICE" /> -->
             <category android:name="android.intent.category.LAUNCHER" />
         </intent-filter>
       </activity>

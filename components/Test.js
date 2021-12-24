@@ -4,7 +4,7 @@ import Tts from 'react-native-tts';
 
 const Test = () => {
   const syllabes = [
-    'ba',
+    'loris',
     'pa',
     'ta',
     'ka',
